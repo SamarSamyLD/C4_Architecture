@@ -1,0 +1,12 @@
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\bin\Debug\net6.0\Application.deps.json
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\bin\Debug\net6.0\Application.dll
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\bin\Debug\net6.0\Application.pdb
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\Application.dll
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\refint\Application.dll
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\Application.pdb
+C:\Users\samar.hassan\source\repos\ConsoleApp1\C4.Core\obj\Debug\net6.0\ref\Application.dll
